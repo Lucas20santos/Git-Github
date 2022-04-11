@@ -52,3 +52,9 @@
 ## Git Essencial - 09 - Resolvendo conflitos
 
 ## Git Essencial - 10 - Salvando alterações com Stash
+
+## Git Essencial - 11 - Baixando metadados com Fetch
+
+## Git Essencial - 12 - Baixando repositório com Pull
+
+## Git Essencial - 13 - Ignorando arqiuvos com .gitignore
