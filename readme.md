@@ -1,5 +1,11 @@
 # Git-Github
 
+## Os materiais usado para fazer essa aula foi:
+
+* Um computador com internet
+* instalar o git
+* criar uma conta no github
+
 ## Git Essencial - 00 - Orveview(visão geral)
 
 ## Git Essencial - 01 - Diferença entre Git e Github
@@ -17,3 +23,10 @@
 > Para criar um repositório no github basta vc clicar na foto do seu perfil, que tem uma seta apontada para baixo, ir na opção 'your repositories' e depois clicar em 'new'. Vc pode dar um nome,  uma descrição, adicionar um readme e dizer se o repositório é público ou privado.
 
 ## Git Essencial - 03 - Criando repositório local
+
+> Antes de criar um repositório é preciso configurar o nome e o email do proprietário, o email precisa ser o mesmo usado no github, caso não use o mesmo, os commits não serão marcados no github.
+
+* baixar o git e git bash se estiver num máquina windows
+* git se estiver no linux e mac
+
+> Para criar um repositório basta dar um git init no terminal
