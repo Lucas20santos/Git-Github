@@ -48,3 +48,7 @@
 ## Git Essencial - 07 - Gráfico da árvore git (git graph)
 
 ## Git Essencial - 08 - Merge
+
+## Git Essencial - 09 - Resolvendo conflitos
+
+## Git Essencial - 10 - Salvando alterações com Stash
