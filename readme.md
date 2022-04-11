@@ -43,4 +43,4 @@
 * criar branck: git checkout -b **nome-branch**
 * comando para verificar as branchs que existem: git branch
 * comando para ir para uma branch especifica: git checkout **nome-branck-que-vc-ir**
-* comando paara deletar branck: git branck -D **nome-branck**
+* comando paara deletar branck: git branch -D **nome-branck**
