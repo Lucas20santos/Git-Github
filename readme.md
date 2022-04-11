@@ -15,3 +15,5 @@
 * conta no github
 
 > Para criar um repositório no github basta vc clicar na foto do seu perfil, que tem uma seta apontada para baixo, ir na opção 'your repositories' e depois clicar em 'new'. Vc pode dar um nome,  uma descrição, adicionar um readme e dizer se o repositório é público ou privado.
+
+## Git Essencial - 03 - Criando repositório local
