@@ -47,4 +47,4 @@
 
 ## Git Essencial - 07 - Gráfico da árvore git (git graph)
 
-
+## Git Essencial - 08 - Merge
