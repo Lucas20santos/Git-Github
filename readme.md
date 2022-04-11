@@ -34,3 +34,13 @@
 ## Git Essencial - 04 - Commit e push
 
 > Criar um repositório local e ligar com o repositório remoto
+
+## Git Essencial - 05 - Configuração do repositório (git config)
+
+## Git Essencial - 06 - Criando branchs
+
+* criar branch: git branch **nome-branch**
+* criar branck: git checkout -b **nome-branch**
+* comando para verificar as branchs que existem: git branch
+* comando para ir para uma branch especifica: git checkout **nome-branck-que-vc-ir**
+* comando paara deletar branck: git branck -D **nome-branck**
