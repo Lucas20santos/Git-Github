@@ -30,3 +30,7 @@
 * git se estiver no linux e mac
 
 > Para criar um repositório basta dar um git init no terminal
+
+## Git Essencial - 04 - Commit e push
+
+> Criar um repositório local e ligar com o repositório remoto
